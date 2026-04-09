@@ -1,6 +1,7 @@
 assalamualaikum warahmatullahi wabarakatuh
 Proyek akhir Mata Kuliah SIM :
-1. Deploy RMarkdown melalui RPubs
-2. Nilai 100
-3. Nilai A
+1. Nilai 100
+2. Nilai A
 waalaikumussalam warahmatullahi wabarakatuh
+
+Alhamdulillah pulang
